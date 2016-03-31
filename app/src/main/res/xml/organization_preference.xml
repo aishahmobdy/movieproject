@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/preference_organization_title">
+        <ListPreference
+            android:key="ORG_PREF_LIST"
+            android:summary="@string/preference_organization_list_summary"
+            android:title="@string/preference_organization_list_title"
+            android:entries="@array/org_entries"
+            android:entryValues="@array/org_values"
+            android:defaultValue="popular"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

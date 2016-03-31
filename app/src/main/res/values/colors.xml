@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474f</color>
+    <color name="colorPrimaryDark">#37474f</color>
+
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="movie_title_color">#FFFFFF</color>
+    <color name="color_gray">#757575</color>
+    <color name="primary">#FF9800</color>
+    <color name="primary_dark">#F57C00</color>
+</resources>

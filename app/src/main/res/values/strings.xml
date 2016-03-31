@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="title_activity_movie">Movie Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="network_alert_title">Network Error</string>
+    <string name="network_alert_message">Please make sure you have a network connection before running this application.</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="preference_organization_title">Sort Movies</string>
+    <string name="preference_organization_list_summary">Select how you would like your application to be sorted.</string>
+    <string name="preference_organization_list_title">Sort type</string>
+    <string name="sorted_by_pop">Sorted by Popularity</string>
+    <string name="sorted_by_voted">Sorted by Top Voted</string>
+    <string-array name="org_entries">
+        <item>By Most Popular</item>
+        <item>By highest-Rated</item>
+        <item>Saved As Favorite</item>
+    </string-array>
+    <string name="title_activity_movie_detail">Detailes</string>
+    <string name="review_status_text">No Reviews</string>
+    <string name="trailer_status_text">No Trailers</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="title_activity_setting">SettingActivity</string>
+</resources>
